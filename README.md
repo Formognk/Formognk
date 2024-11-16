@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! This is a presentation of my background and skills in two languages. Click the links below to navigate:
 
-- [🇬🇧 English Version](#english-version)
-- [🇫🇷 Version Française](#version-française)
+- [ English Version](#english-version)
+- [ Version Française](#version-française)
 
 ---
 
