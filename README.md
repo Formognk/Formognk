@@ -31,7 +31,7 @@ I am currently seeking a **one-year apprenticeship**, available immediately, wit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" height="30" width="40" /></a>
 </p>
 
 Feel free to explore my repositories to discover more about my projects and skills!
@@ -64,7 +64,7 @@ Je suis actuellement à la recherche d’une **alternance d’un an**, disponibl
 
 <h3 align="left">Connectons-nous :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" height="30" width="40" /></a>
 </p>
 
 N’hésitez pas à explorer mes dépôts pour en apprendre davantage sur mes projets et compétences !
