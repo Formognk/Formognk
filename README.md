@@ -27,6 +27,30 @@ I am currently seeking a **one-year apprenticeship**, available immediately, wit
 
 Feel free to explore my repositories to discover more about my projects and skills!
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🇫🇷 Version Française
