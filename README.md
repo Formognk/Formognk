@@ -7,7 +7,7 @@ Welcome to my GitHub profile! This is a presentation of my background and skills
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 Hi there! 👋  
 I'm **GOMES NALUAK Formoso**, a **third-year Bachelor’s student in Network Administration and Cybersecurity**.  
@@ -27,33 +27,9 @@ I am currently seeking a **one-year apprenticeship**, available immediately, wit
 
 Feel free to explore my repositories to discover more about my projects and skills!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-## 🇫🇷 Version Française
+## Version Française
 
 Bonjour ! 👋  
 Je suis **GOMES NALUAK Formoso**, étudiant en **troisième année de Bachelor en Administration Réseau et Cybersécurité**.  
