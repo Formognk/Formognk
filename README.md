@@ -25,7 +25,18 @@ I am currently seeking a **one-year apprenticeship**, available immediately, wit
 - **Networks:** LAN configuration and troubleshooting.
 - **Hardware:** Assembling and maintaining computers.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" height="30" width="40" /></a>
+</p>
+
 Feel free to explore my repositories to discover more about my projects and skills!
+
+---
 
 ---
 
@@ -47,8 +58,15 @@ Je suis actuellement à la recherche d’une **alternance d’un an**, disponibl
 - **Réseaux :** Configuration et dépannage du réseaux LAN.
 - **Matériel :** Assemblage et maintenance d’ordinateurs.
 
-N’hésitez pas à explorer mes dépôts pour en apprendre davantage sur mes projets et compétences !
+<h3 align="left">Langages et Outils :</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+
+<h3 align="left">Connectons-nous :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/formoso-gomes-naluak-a7085724b/" height="30" width="40" /></a>
+</p>
+
+N’hésitez pas à explorer mes dépôts pour en apprendre davantage sur mes projets et compétences !
 
 Merci de votre visite ! | Thank you for visiting!
